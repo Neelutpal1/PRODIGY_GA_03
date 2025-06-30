@@ -1,7 +1,8 @@
 # streamlit_app.py
 
 import streamlit as st
-from markov_model import MarkovChainGenerator
+from markov_model import MarkovChain
+
 
 st.title("🧠 Text Generator with Markov Chains")
 
