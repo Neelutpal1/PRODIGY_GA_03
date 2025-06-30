@@ -12,7 +12,8 @@ length = st.slider("Length of generated text", 10, 200, 50)
 
 if uploaded_file:
     text = uploaded_file.read().decode("utf-8")
-    generator = MarkovChainGenerator(n=order)
+    generator = MarkovChain(order=order)
+
     generator.train(text)
     st.success("Model trained!")
 
