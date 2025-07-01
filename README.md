@@ -55,7 +55,3 @@ You can test the app using this [sample.txt](https://7v8qnkv2amfeiypjr3mshr.stre
 MIT License — feel free to fork, modify, and share!
 
 ---
-
-## 📧 Contact
-
-Built by [Neelutpal](https://github.com/Neelutpal1) for ProDigy Infotech.
